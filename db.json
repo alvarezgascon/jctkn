@@ -1,0 +1,22 @@
+{
+  "tokens": [
+    {
+      "id": "1",
+      "name": "Ariana Grande",
+      "description": "Ariana Grande Video Clip",
+      "image": "https://twitter.com/ArianaToday/photo"
+    },
+    {
+      "id": "2",
+      "name": "Tailor Swift",
+      "description": "Tailor Swift 2021 Christmas",
+      "image": "https://mobile.twitter.com/TaylorSwiftUy/photo"
+    },
+    {
+      "id": "3",
+      "name": "Katy Perry",
+      "description": "Katy Perry Merry Xtmas",
+      "image": "https://mobile.twitter.com/KatyPerrySpain/photo"
+    }
+  ]
+}
